@@ -1,0 +1,15 @@
+html, body, #map-canvas { 
+	width: 800px;
+	height: 600px;
+	margin: 0; 
+	padding: 0;
+}
+form{
+	width: 395px;
+}
+#delMarker{
+	display: none;
+}
+#startWatch{
+	display: none;
+}

@@ -1,0 +1,8 @@
+CACHE MANIFEST
+#version 1.0
+CACHE:
+index.php
+style.css
+map.js
+NETWORK:
+*
